@@ -1,0 +1,31 @@
+CarID,CarName,Brand,Transmission,FuelType,Year,Price,Mileage,MPG,Tax
+1,Tiguan L PHEV,Volkswagen,Automatic,Hybrid,2020,23000,2000,48,145.0
+2,Camry,Toyota,Manual,Petrol,2020,20000,3000,42,120.0
+3,i20,Hyundai,Manual,Petrol,2020,15000,1800,40,110.0
+4,A4,Audi,Semi-Auto,Diesel,2020,35000,4000,45,160.0
+5,X3,BMW,Automatic,Diesel,2020,40000,2500,46,170.0
+6,Kodiaq,Skoda,Manual,Petrol,2020,27000,2200,41,130.0
+7,Mustang,Ford,Manual,Petrol,2020,33000,2900,38,150.0
+8,Passat,Volkswagen,Automatic,Diesel,2020,22000,2700,44,135.0
+9,i10,Hyundai,Manual,Petrol,2020,14000,1600,39,105.0
+10,Yaris,Toyota,Manual,Petrol,2020,18000,2100,43,125.0
+11,Explorer,Ford,Automatic,Diesel,2020,38000,3100,36,175.0
+12,Octavia,Skoda,Manual,Diesel,2020,25000,2300,40,140.0
+13,Elantra,Hyundai,Automatic,Diesel,2020,24000,2400,41,138.0
+14,A6,Audi,Semi-Auto,Hybrid,2020,39000,2600,49,165.0
+15,X5,BMW,Automatic,Diesel,2020,45000,2800,37,180.0
+16,Focus,Ford,Manual,Petrol,2020,21000,1700,42,118.0
+17,Civic,Toyota,Manual,Petrol,2020,19000,2000,41,112.0
+18,Polo,Volkswagen,Manual,Diesel,2020,16000,1900,39,109.0
+19,Q7,Audi,Automatic,Hybrid,2020,42000,3500,50,170.0
+20,3 Series,BMW,Automatic,Diesel,2020,37000,3000,46,158.0
+21,Venue,Hyundai,Manual,Petrol,2020,17000,1500,38,108.0
+22,Kona,Hyundai,Automatic,Hybrid,2020,26000,2300,47,137.0
+23,Figo,Ford,Manual,Petrol,2020,13000,1300,35,103.0
+24,Fabia,Skoda,Manual,Diesel,2020,15000,1400,36,104.0
+25,Jetta,Volkswagen,Semi-Auto,Diesel,2020,23000,2100,44,129.0
+26,Highlander,Toyota,Automatic,Hybrid,2020,34000,3100,48,168.0
+27,Corolla,Toyota,Manual,Petrol,2020,20000,2000,40,122.0
+28,Edge,Ford,Automatic,Diesel,2020,31000,2700,37,143.0
+29,Santro,Hyundai,Manual,Petrol,2020,12000,1200,34,100.0
+30,Q5,Audi,Semi-Auto,Diesel,2020,36000,3400,45,160.0

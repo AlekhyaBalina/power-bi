@@ -1,0 +1,101 @@
+Brand,Car_Name,Car_ID,Cost_Price_Lakhs,Selling_Price_Lakhs,Mileage_kmpl,Horsepower_bhp,Ground_Clearance_in,Seats,Fuel_Type,Color,Transmission,Sold_Status,Owner_Name,Service_Charges_Lakhs,Gender_of_Owner,Year_of_Manufacture,Date_of_Sale,Discount_Offered_Lakhs,Profit_Loss_Lakhs,Year_of_Sale
+Benz,E-Class,CAR001,27.44,30.42,24.98,559,9.0,2,Petrol,Blue,Manual,Yes,Rebecca Gallegos,1.96,Male,2023,2024-07-09,0.99,1.02,2024.0
+Lamborghini,Aventador,CAR002,29.71,30.56,9.05,236,9.4,7,Hybrid,White,Manual,Yes,Amanda Kelly,1.64,Female,2024,2025-02-13,2.12,-0.79,2025.0
+BMW,X1,CAR003,89.26,97.87,21.52,683,9.2,4,Electric,Silver,Automatic,No,,,,2019,,0.46,,
+Benz,C-Class,CAR004,28.47,23.67,23.89,410,9.1,7,Diesel,White,Manual,Yes,Richard Carroll,0.54,Female,2024,2024-01-10,4.81,-5.34,2024.0
+Benz,C-Class,CAR005,70.63,67.19,24.28,488,7.0,7,Hybrid,Blue,Manual,No,,,,2024,,3.73,,
+BMW,X1,CAR006,33.54,41.28,13.58,409,9.9,2,Hybrid,Silver,Semi-Automatic,No,,,,2021,,0.51,,
+Toyota,Glanza,CAR007,34.15,35.09,22.82,549,5.4,5,Diesel,Black,Semi-Automatic,Yes,Darlene Lawrence,0.5,Other,2020,2024-09-05,0.84,0.44,2024.0
+Toyota,Fortuner,CAR008,62.2,64.73,23.92,680,9.1,7,Hybrid,Black,Semi-Automatic,Yes,Kelly Ortiz,0.47,Female,2020,2023-07-30,1.13,2.06,2023.0
+BMW,X5,CAR009,60.26,61.29,23.22,186,10.0,2,Electric,White,Semi-Automatic,No,,,,2016,,3.84,,
+Benz,S-Class,CAR010,23.58,22.15,9.63,222,8.9,2,Electric,Blue,Semi-Automatic,Yes,William Thompson,1.36,Male,2018,2025-04-22,2.3,-2.79,2025.0
+Lamborghini,Urus,CAR011,47.3,47.74,24.99,301,5.1,2,Electric,Black,Semi-Automatic,Yes,Robert Ferguson PhD,1.05,Other,2021,2023-09-26,4.41,-0.61,2023.0
+Benz,C-Class,CAR012,43.61,45.39,24.33,256,7.1,4,Hybrid,Black,Semi-Automatic,No,,,,2021,,3.42,,
+Benz,C-Class,CAR013,36.48,36.03,21.25,571,6.7,2,Electric,White,Semi-Automatic,Yes,Melissa Deleon,1.94,Other,2023,2023-07-26,0.15,-2.39,2023.0
+Toyota,Glanza,CAR014,69.85,68.66,8.53,425,9.0,7,Diesel,Silver,Semi-Automatic,No,,,,2020,,3.07,,
+BMW,X5,CAR015,99.15,101.8,9.92,416,6.5,2,Hybrid,Blue,Manual,No,,,,2018,,3.81,,
+Toyota,Fortuner,CAR016,13.21,11.54,21.39,639,8.3,4,Diesel,Red,Semi-Automatic,Yes,Jacob Mcdaniel,1.49,Other,2024,2024-11-09,1.3,-3.16,2024.0
+MG,Astor,CAR017,42.93,41.95,8.14,402,6.1,2,Petrol,Black,Manual,No,,,,2023,,3.52,,
+BMW,X1,CAR018,35.4,37.68,21.59,545,5.5,4,Diesel,Blue,Automatic,No,,,,2021,,0.43,,
+Toyota,Fortuner,CAR019,91.81,87.65,14.94,195,8.9,7,Petrol,Silver,Manual,Yes,Ronald Carson,1.22,Other,2017,2025-01-11,2.94,-5.38,2025.0
+Lamborghini,Aventador,CAR020,75.61,79.28,17.72,242,5.7,5,Hybrid,Silver,Manual,Yes,Heather Jackson,1.61,Male,2022,2024-07-04,4.55,2.06,2024.0
+Toyota,Glanza,CAR021,91.44,88.57,24.89,432,7.1,2,Diesel,Black,Automatic,Yes,Mrs. Lisa Mejia,1.02,Male,2023,2024-04-07,3.06,-3.89,2024.0
+BMW,X1,CAR022,84.88,87.4,24.45,264,9.4,2,Diesel,Red,Manual,Yes,Patrick Richardson,0.98,Male,2024,2023-06-26,3.89,1.54,2023.0
+Benz,S-Class,CAR023,10.64,12.37,23.87,157,9.3,2,Petrol,Silver,Semi-Automatic,No,,,,2018,,1.74,,
+Toyota,Innova,CAR024,96.34,101.61,12.16,201,7.9,2,Hybrid,Silver,Semi-Automatic,No,,,,2022,,4.42,,
+Toyota,Innova,CAR025,44.83,41.11,11.26,623,6.8,7,Diesel,Red,Automatic,Yes,Jason Williams,1.36,Male,2016,2024-08-07,1.84,-5.08,2024.0
+Toyota,Innova,CAR026,70.16,70.86,18.54,619,9.8,5,Diesel,White,Automatic,No,,,,2017,,1.16,,
+MG,Hector,CAR027,61.37,58.97,23.69,384,5.4,4,Electric,Red,Automatic,Yes,Mallory Jones,1.77,Female,2021,2024-02-02,4.0,-4.17,2024.0
+Toyota,Fortuner,CAR028,58.25,59.08,15.02,559,5.3,2,Electric,Red,Manual,Yes,Michael Coleman,0.16,Other,2015,2024-02-25,4.3,0.67,2024.0
+MG,Astor,CAR029,85.37,88.86,13.98,333,8.8,5,Diesel,Red,Semi-Automatic,Yes,Joseph Young,1.55,Female,2016,2023-09-20,2.13,1.94,2023.0
+Toyota,Fortuner,CAR030,55.42,50.75,14.08,143,8.4,7,Petrol,Blue,Manual,Yes,Cynthia Gomez,0.55,Other,2020,2024-10-11,4.49,-5.22,2024.0
+BMW,3 Series,CAR031,81.25,78.18,17.63,367,5.7,4,Electric,Silver,Automatic,Yes,Mr. Gabriel Hess MD,0.53,Female,2024,2023-10-12,4.09,-3.6,2023.0
+Benz,S-Class,CAR032,54.85,60.2,20.98,682,8.9,4,Petrol,Red,Manual,No,,,,2019,,0.91,,
+MG,Gloster,CAR033,55.37,59.95,19.73,446,5.5,5,Hybrid,Red,Manual,No,,,,2018,,4.33,,
+Benz,S-Class,CAR034,66.73,65.49,19.0,328,6.5,5,Electric,Red,Manual,No,,,,2016,,0.54,,
+Lamborghini,Urus,CAR035,59.28,54.57,11.29,526,8.5,4,Electric,Silver,Semi-Automatic,Yes,Kimberly Miller,0.3,Female,2018,2024-09-22,3.64,-5.01,2024.0
+MG,Hector,CAR036,23.02,25.23,16.39,549,9.2,2,Hybrid,White,Semi-Automatic,No,,,,2020,,3.67,,
+BMW,X1,CAR037,57.48,57.2,19.34,564,8.4,7,Diesel,Black,Manual,No,,,,2017,,4.52,,
+BMW,3 Series,CAR038,54.24,57.47,9.86,388,6.5,5,Hybrid,White,Manual,Yes,Heather Sandoval,0.38,Female,2024,2024-01-08,1.38,2.85,2024.0
+Toyota,Fortuner,CAR039,24.21,23.34,20.39,186,6.4,2,Electric,Red,Automatic,Yes,Tracy Michael,1.21,Male,2018,2025-04-13,0.44,-2.08,2025.0
+Benz,C-Class,CAR040,11.91,17.73,15.48,421,7.9,5,Diesel,Silver,Semi-Automatic,Yes,Guy Howard,0.98,Other,2017,2023-07-28,1.22,4.84,2023.0
+Benz,S-Class,CAR041,38.72,34.8,9.05,699,6.8,7,Diesel,Red,Automatic,No,,,,2018,,2.23,,
+Toyota,Fortuner,CAR042,61.54,61.84,18.98,137,8.6,7,Diesel,Black,Semi-Automatic,No,,,,2023,,1.16,,
+Toyota,Fortuner,CAR043,76.7,75.94,21.45,218,9.5,2,Petrol,Blue,Manual,No,,,,2019,,1.98,,
+Toyota,Glanza,CAR044,47.12,54.25,24.2,603,5.7,7,Electric,White,Automatic,Yes,Wendy Dorsey,0.66,Other,2016,2024-09-24,0.76,6.47,2024.0
+MG,Astor,CAR045,39.49,36.89,24.56,412,7.4,5,Electric,Silver,Automatic,Yes,Ryan Martin,1.39,Male,2021,2023-09-08,3.7,-3.99,2023.0
+BMW,X5,CAR046,45.91,43.75,11.46,531,8.1,5,Diesel,Silver,Automatic,No,,,,2015,,0.87,,
+Benz,S-Class,CAR047,66.67,73.31,12.09,115,5.7,4,Diesel,White,Manual,No,,,,2020,,0.76,,
+Lamborghini,Aventador,CAR048,85.76,94.43,15.06,407,6.0,5,Hybrid,Silver,Semi-Automatic,No,,,,2015,,0.13,,
+Benz,C-Class,CAR049,21.82,17.31,21.07,244,5.5,7,Electric,Blue,Automatic,No,,,,2018,,2.71,,
+Toyota,Fortuner,CAR050,45.27,45.58,9.24,632,7.5,2,Diesel,Blue,Manual,Yes,Christopher Soto,1.39,Male,2021,2023-08-16,4.23,-1.08,2023.0
+BMW,X1,CAR051,10.09,12.0,14.26,489,7.9,7,Petrol,Black,Manual,No,,,,2019,,3.13,,
+BMW,X1,CAR052,46.53,51.33,8.57,383,7.4,2,Diesel,Silver,Semi-Automatic,Yes,Amy Miller,1.08,Female,2021,2024-12-27,3.95,3.72,2024.0
+Toyota,Glanza,CAR053,26.12,32.54,17.61,131,6.8,4,Diesel,White,Automatic,Yes,Thomas Flores,0.22,Male,2020,2023-06-17,2.28,6.2,2023.0
+Lamborghini,Urus,CAR054,47.3,47.02,19.04,594,9.4,4,Diesel,Blue,Automatic,Yes,Ann Silva,1.3,Female,2024,2025-04-26,1.0,-1.58,2025.0
+Toyota,Glanza,CAR055,50.07,47.56,10.45,270,8.5,2,Electric,Red,Manual,No,,,,2016,,1.58,,
+Lamborghini,Urus,CAR056,31.61,32.05,19.4,330,7.6,4,Petrol,White,Semi-Automatic,Yes,Michael Gonzalez,0.86,Female,2016,2025-05-09,3.21,-0.42,2025.0
+Lamborghini,Huracan,CAR057,96.87,102.91,17.89,589,6.6,7,Electric,Blue,Semi-Automatic,Yes,Suzanne Davis,1.55,Male,2023,2025-01-25,1.97,4.49,2025.0
+Lamborghini,Urus,CAR058,64.19,67.51,18.0,582,7.0,2,Diesel,Black,Automatic,No,,,,2017,,0.13,,
+MG,Gloster,CAR059,55.86,64.07,9.94,345,9.9,4,Electric,Silver,Semi-Automatic,No,,,,2017,,0.15,,
+Lamborghini,Aventador,CAR060,94.43,95.44,21.61,142,7.5,4,Petrol,Black,Automatic,No,,,,2015,,4.89,,
+Lamborghini,Aventador,CAR061,16.63,11.25,9.15,512,8.3,5,Petrol,Red,Automatic,Yes,Katherine Morris,1.49,Female,2021,2023-07-18,4.25,-6.87,2023.0
+Lamborghini,Urus,CAR062,60.92,57.41,24.9,100,7.6,5,Diesel,Black,Semi-Automatic,Yes,Jay Carrillo,1.36,Male,2024,2025-02-05,3.72,-4.87,2025.0
+BMW,X1,CAR063,67.78,66.83,18.11,277,8.5,4,Electric,Black,Manual,Yes,Jon Contreras,0.39,Other,2022,2024-07-08,1.19,-1.34,2024.0
+Toyota,Glanza,CAR064,71.8,70.61,11.97,625,8.3,4,Electric,Black,Manual,No,,,,2018,,3.69,,
+Lamborghini,Aventador,CAR065,70.12,77.56,8.22,409,5.7,5,Diesel,Blue,Semi-Automatic,Yes,John Romero,1.15,Female,2021,2025-05-25,0.3,6.29,2025.0
+MG,Gloster,CAR066,81.45,83.41,23.28,406,9.9,5,Electric,Blue,Automatic,No,,,,2015,,0.58,,
+BMW,3 Series,CAR067,59.32,65.78,9.55,120,6.0,4,Petrol,Silver,Manual,No,,,,2024,,0.88,,
+Toyota,Fortuner,CAR068,30.51,32.0,24.79,589,7.1,7,Hybrid,Blue,Automatic,No,,,,2022,,0.47,,
+Lamborghini,Urus,CAR069,92.59,95.89,20.84,539,6.0,4,Electric,Silver,Manual,Yes,Emma Mora,1.21,Male,2019,2024-05-14,3.09,2.09,2024.0
+MG,Gloster,CAR070,73.08,73.37,24.29,572,5.4,5,Hybrid,White,Automatic,No,,,,2023,,1.03,,
+Lamborghini,Aventador,CAR071,29.74,28.23,14.41,435,7.7,7,Petrol,Black,Semi-Automatic,No,,,,2017,,1.83,,
+Benz,E-Class,CAR072,21.92,26.57,12.51,218,8.7,7,Electric,White,Manual,No,,,,2020,,2.35,,
+Benz,E-Class,CAR073,52.74,51.16,8.29,507,7.3,7,Hybrid,Black,Manual,Yes,Roy Lopez,0.95,Other,2015,2023-08-06,2.59,-2.53,2023.0
+Benz,E-Class,CAR074,76.11,84.78,12.0,358,9.0,2,Diesel,Blue,Automatic,No,,,,2018,,1.16,,
+Benz,E-Class,CAR075,65.29,61.75,8.6,550,7.1,2,Electric,Blue,Manual,No,,,,2020,,4.6,,
+Toyota,Fortuner,CAR076,23.33,22.54,9.73,226,9.2,5,Electric,Silver,Manual,Yes,Melody Colon,0.24,Female,2021,2023-07-08,1.9,-1.03,2023.0
+BMW,3 Series,CAR077,40.48,40.83,9.36,117,6.7,4,Diesel,Silver,Automatic,No,,,,2022,,3.85,,
+Lamborghini,Huracan,CAR078,60.4,68.45,19.76,666,7.9,4,Hybrid,Red,Semi-Automatic,Yes,Darrell Butler,1.92,Other,2017,2024-08-12,1.44,6.13,2024.0
+MG,Astor,CAR079,93.24,95.96,12.95,403,6.7,2,Hybrid,Silver,Manual,No,,,,2020,,2.34,,
+MG,Astor,CAR080,37.17,42.76,19.13,594,8.9,5,Petrol,Black,Semi-Automatic,Yes,Courtney Reed,1.2,Female,2021,2024-10-15,2.29,4.39,2024.0
+BMW,X5,CAR081,44.77,48.73,16.86,661,8.2,5,Electric,Blue,Manual,Yes,Michael Hopkins,0.59,Female,2020,2025-02-22,3.23,3.37,2025.0
+Toyota,Innova,CAR082,15.43,11.81,24.3,303,7.9,4,Petrol,White,Automatic,Yes,Kimberly Ross,1.53,Other,2018,2023-12-05,2.08,-5.15,2023.0
+Toyota,Innova,CAR083,26.91,25.34,15.19,241,8.9,7,Hybrid,White,Manual,Yes,Bryan Stevens,0.18,Male,2020,2023-10-28,4.21,-1.75,2023.0
+Benz,E-Class,CAR084,79.64,87.35,23.09,254,6.2,5,Diesel,Red,Automatic,Yes,Pamela Jennings,1.16,Male,2020,2024-09-11,1.89,6.55,2024.0
+BMW,X1,CAR085,45.93,41.08,14.51,623,6.2,2,Hybrid,Black,Semi-Automatic,Yes,Paula Nichols,1.32,Other,2016,2024-03-16,3.57,-6.17,2024.0
+Lamborghini,Urus,CAR086,25.26,27.32,20.1,681,5.2,5,Diesel,Blue,Manual,Yes,Brenda Williams,0.74,Male,2015,2023-07-12,0.1,1.32,2023.0
+Benz,C-Class,CAR087,95.83,100.24,8.95,141,7.7,4,Hybrid,Blue,Automatic,Yes,Frederick Santana,1.3,Other,2021,2023-09-06,3.45,3.11,2023.0
+Lamborghini,Aventador,CAR088,29.9,31.83,17.99,640,8.8,5,Petrol,White,Automatic,Yes,Karen Buchanan,0.26,Female,2017,2024-02-05,0.21,1.67,2024.0
+MG,Hector,CAR089,36.62,33.71,23.95,307,8.8,7,Electric,Blue,Automatic,Yes,Jose Hancock,1.43,Male,2023,2023-07-05,1.5,-4.34,2023.0
+Benz,C-Class,CAR090,96.0,95.87,15.43,152,9.4,7,Petrol,Red,Semi-Automatic,No,,,,2022,,2.76,,
+Toyota,Fortuner,CAR091,29.09,31.28,23.16,652,9.1,5,Diesel,White,Automatic,No,,,,2024,,1.75,,
+MG,Gloster,CAR092,50.44,55.55,14.4,449,5.2,5,Petrol,Blue,Semi-Automatic,Yes,Theresa Gonzales,1.47,Female,2023,2024-02-08,1.05,3.64,2024.0
+Benz,S-Class,CAR093,74.72,71.87,11.32,578,8.8,4,Hybrid,Black,Semi-Automatic,Yes,Michele Tran,1.22,Female,2022,2024-01-30,4.15,-4.07,2024.0
+BMW,X5,CAR094,70.61,76.34,23.61,164,6.4,4,Hybrid,White,Automatic,No,,,,2020,,1.09,,
+Lamborghini,Aventador,CAR095,30.94,27.31,9.74,448,9.1,7,Hybrid,Red,Manual,Yes,Holly Smith,1.98,Male,2017,2023-11-03,3.98,-5.61,2023.0
+MG,Hector,CAR096,68.01,73.66,19.82,452,7.7,5,Petrol,Black,Manual,Yes,Mary Morrison,0.46,Male,2017,2023-07-10,2.25,5.19,2023.0
+BMW,3 Series,CAR097,51.51,46.21,20.81,282,7.7,4,Petrol,Black,Manual,Yes,Vanessa White,1.56,Female,2021,2024-08-04,3.51,-6.86,2024.0
+Lamborghini,Huracan,CAR098,77.57,78.45,19.28,647,9.1,5,Electric,Silver,Manual,No,,,,2015,,0.47,,
+MG,Hector,CAR099,17.34,23.78,21.09,561,8.7,2,Electric,Blue,Manual,No,,,,2024,,2.68,,
+Lamborghini,Huracan,CAR100,70.81,74.08,12.58,263,5.5,4,Petrol,Red,Manual,Yes,Catherine Blake,0.74,Female,2018,2024-05-03,4.86,2.53,2024.0
